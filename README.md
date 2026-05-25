@@ -1,9 +1,8 @@
 <div align="center">
 
-# KARADAVI
+<img src="./assets/karadavi-forest-banner.svg" width="100%" />
 
-> Machine trust, semantic authority, perception infrastructure, and intelligence systems.
-
+<br>
 <br>
 
 <img src="https://img.shields.io/badge/machine%20trust-0B0F19?style=flat&labelColor=0B0F19&color=111827" />
