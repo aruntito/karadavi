@@ -1,0 +1,20 @@
+<svg width="1600" height="500" viewBox="0 0 1600 500" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="1600" height="500" fill="#07110B"/>
+<rect width="1600" height="500" fill="url(#paint0_radial)"/>
+<g opacity="0.18">
+<path d="M0 340L120 250L220 310L360 180L480 270L620 170L760 280L920 140L1080 260L1240 180L1400 300L1600 210V500H0V340Z" fill="#5A7A62"/>
+<path d="M0 390L160 290L300 360L470 230L620 320L780 210L980 360L1160 240L1320 340L1600 260V500H0V390Z" fill="#2F4F39"/>
+</g>
+<g opacity="0.12">
+<circle cx="1260" cy="110" r="180" fill="#7FA88A"/>
+</g>
+<text x="100" y="210" fill="#E6F1EA" font-size="74" font-family="Arial, Helvetica, sans-serif" font-weight="700">KARADAVI</text>
+<text x="100" y="270" fill="#9DB3A4" font-size="28" font-family="Arial, Helvetica, sans-serif">Machine trust • Semantic authority • Perception infrastructure</text>
+<text x="100" y="350" fill="#6F8578" font-size="20" font-family="Arial, Helvetica, sans-serif">Exploring AI-native visibility, semantic systems, and machine-mediated trust.</text>
+<defs>
+<radialGradient id="paint0_radial" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(800 180) rotate(90) scale(320 900)">
+<stop stop-color="#163122"/>
+<stop offset="1" stop-color="#07110B"/>
+</radialGradient>
+</defs>
+</svg>
